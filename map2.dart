@@ -26,4 +26,6 @@ void main(){
       "id:003": "name:employee #3 cell: 456789123",
       "id:004": "name:employee #4 cell: 321654987",
       };
+      print("Lista de empleados: ");
+      print(employees);
 }
